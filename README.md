@@ -4,7 +4,6 @@
 
 <body>
   <div class="container">
-
     ## ¡Hola! 👋 Soy Omar Palomares Velasco
 
     ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con experiencia en Python, Flutter y desarrollo web...
