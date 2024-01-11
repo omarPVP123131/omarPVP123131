@@ -3,39 +3,48 @@
 </head>
 
 <body>
-
   <div class="container">
 
-    <h1 class="titulo-principal">¡Hola! 👋 Soy Omar Palomares Velasco</h1>
+    ## ¡Hola! 👋 Soy Omar Palomares Velasco
 
-    <p class="descripcion">¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con experiencia en Python, Flutter y desarrollo web...</p>
+    ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con experiencia en Python, Flutter y desarrollo web...
 
-    <h2 class="subtitulo">Habilidades</h2>
-    <ul class="habilidades">
-      <!-- Añade las habilidades aquí -->
-    </ul>
+    ## Habilidades
 
-    <h2 class="subtitulo">Estadísticas de GitHub</h2>
+    - JavaScript
+    - Python
+    - TypeScript
+    - HTML/CSS
+    - PHP
+    - Java
+    - Flutter
 
-    <div class="github-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=omarPVP123131&show_icons=true&count_private=true" alt="Estadísticas de GitHub">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarPVP123131" alt="Gráfico de Contribuciones">
-    </div>
+    - React.js
+    - Angular
+    - Vue.js
+    - Node.js
+    - Django
+    - Flask
+    - Express.js
+    - Netlify
+    - Vercel
+    - Git
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarPVP123131" alt="Top Lenguajes">
+    ## Estadísticas de GitHub
 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=omarPVP123131" alt="Gráfico de Actividad Semanal">
+    ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=omarPVP123131&show_icons=true&count_private=true)
+    ![Gráfico de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=omarPVP123131)
+    ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=omarPVP123131)
+    ![Gráfico de Actividad Semanal](https://github-readme-stats.vercel.app/api/wakatime?username=omarPVP123131)
 
-    <div class="profile-summary-cards">
-      <div class="profile-summary-card">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarPVP123131&theme=dracula" alt="Detalles de Perfil">
-      </div>
-      <div class="profile-summary-card">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarPVP123131&theme=dracula" alt="Repositorios por Lenguaje">
-      </div>
-    </div>
+    ## Tarjetas de Resumen de Perfil
 
-    <p class="agradecimiento">¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, ¡no dudes en ponerte en contacto!</p>
+    ![Detalles de Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarPVP123131&theme=dracula)
+    ![Repositorios por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarPVP123131&theme=dracula)
+
+    ## Agradecimiento
+
+    ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, ¡no dudes en ponerte en contacto!
 
   </div>
 </body>
