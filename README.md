@@ -1,16 +1,33 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy [Omar Palomares Velasco]
 
-<!--
-**omarPVP123131/omarPVP123131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con experiencia en python, flutter y desarrollo web. Me encanta trabajar en proyectos desafiantes y aprender constantemente. Aquí tienes un vistazo rápido a quién soy y qué hago:
 
-Here are some ideas to get you started:
+## Habilidades
+- 💻 Lenguajes de programación: [
+- JavaScript
+- Python
+- TypeScript
+- HTML/CSS
+- PHP
+- Java
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+]
+- 🛠️ Tecnologías y herramientas: [
+- React.js
+- Angular
+- Vue.js
+- Node.js
+- Django
+- Flask
+- Express.js
+- Netlify
+- Vercel
+- Git
+]
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=omarPVP123131&show_icons=true&count_private=true)
+![Gráfico de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=omarPVP123131)
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, ¡no dudes en ponerte en contacto!
