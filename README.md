@@ -30,7 +30,6 @@
 - ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=omarPVP123131&show_icons=true&count_private=true)
 - ![Gráfico de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=omarPVP123131)
 - ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=omarPVP123131)
-- ![Gráfico de Actividad Semanal](https://github-readme-stats.vercel.app/api/wakatime?username=omarPVP123131)
 
 ## Tarjetas de Resumen de Perfil
 
