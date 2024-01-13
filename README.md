@@ -2,6 +2,8 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con experiencia en Python, Flutter y desarrollo web.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Habilidades
 
 - **Lenguajes de programación:**
