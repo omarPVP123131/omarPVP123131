@@ -32,7 +32,9 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=omarPVP123131&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omarPVP123131&theme=dark&hide_border=false" /> 
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omarPVP123131&theme=dark&hide_border=false" /> 
+  <br></br>
+    <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarPVP123131&theme=dark"/>
 </td>
 
 <td width="50%" align="center">
@@ -43,6 +45,7 @@
 </tr>
 </table>
 
+<br>
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -51,26 +54,6 @@
 </div>
 <!--- trophy (start) -->
 
-<br>
-
-
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarPVP123131&theme=dracula"/>
-  <br></br>
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarPVP123131&theme=dracula"/>
-  
-  </td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
