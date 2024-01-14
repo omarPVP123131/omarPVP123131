@@ -89,7 +89,8 @@
   [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/el_pishi_trixxo/)
   [![image](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omar.palomaresvelasco)
   [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palomaresomar691@gmail.com)
-    
+  <a href="https://cv-de-omar-palomares-velasco.netlify.app/"><img height="30px" src="https://img.shields.io/badge/Mi%20Web%20-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+
 </div>
 
 <h3 align="center">Donaciones:</h3>
