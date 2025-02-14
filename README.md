@@ -29,52 +29,18 @@
 </h2>
 
 ```typescript
-interface Developer {
-    nombre: string;
-    título: string;
-    ubicación: string;
-    experiencia: string[];
-    educación: string;
-    intereses: string[];
-    habilidades: {
-        lenguajes: string[];
-        frontend: string[];
-        backend: string[];
-        móvil: string[];
-        bases_datos: string[];
-        herramientas: string[];
-        cloud: string[];
-    };
-}
-
-const omar: Developer = {
-    nombre: "Omar Palomares",
-    título: "Full Stack & Mobile Developer",
-    ubicación: "México 🇲🇽",
-    experiencia: [
-        "Desarrollo Web Full Stack",
-        "Desarrollo Móvil Multiplataforma",
-        "UI/UX Design",
-        "DevOps & Cloud Computing"
-    ],
-    educación: "Ingeniería en Sistemas Computacionales",
-    intereses: [
-        "Inteligencia Artificial",
-        "Cloud Computing",
-        "Arquitectura de Software",
-        "Open Source",
-        "IoT"
-    ],
-    habilidades: {
-        lenguajes: ["JavaScript", "TypeScript", "Python", "Java", "C#", "Dart"],
-        frontend: ["React", "Next.js", "Vue", "Angular", "Tailwind", "Material-UI"],
-        backend: ["Node.js", "Express", "Django", "Spring Boot", "FastAPI"],
-        móvil: ["Flutter", "React Native", "Kotlin"],
-        bases_datos: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        herramientas: ["Git", "Docker", "Kubernetes", "Jenkins"],
-        cloud: ["AWS", "Firebase", "Azure", "GCP"]
-    }
+const omar = {
+  nombre: "Omar Palomares",
+  rol: "Full Stack & Mobile Developer",
+  ubicacion: "México",
+  skills: {
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "Supabase"],
+    mobile: ["React Native"],
+    cloud: ["AWS", "Firebase"]
+  }
 };
+
 ```
 
 <!-- Animated Skills Section -->
